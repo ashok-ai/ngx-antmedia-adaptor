@@ -1,4 +1,4 @@
-# ngx-antmedia-adaptor
+# ngx-antmedia
 An Angular 8+ wrapper for AntMedia
 
 ## Installation
@@ -13,7 +13,7 @@ $ npm install webrtc-adapter ngx-antmedia
 
 ## Using the library
 
-WebRTC JavaScript SDK Guide - ant-media/Ant-Media-Server Wiki
+WebRTC JavaScript SDK Guide - ant-media
 Ant Media Server provides a WebSocket interface in publishing and playing WebRTC streams. In this document, you will learn the basics of WebRTC JavaScript SDK and JavaScript Error Callbacks.
 
 WebRTCAdaptor methods
