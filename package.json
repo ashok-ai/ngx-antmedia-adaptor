@@ -1,0 +1,24 @@
+{
+  "name": "ngx-antmedia",
+  "version": "1.0.1",
+  "description": "",
+  "main": "js/webrtc_adaptor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashok-ai/ngx-antmedia-adaptor.git"
+  },
+  "keywords": [
+    "antmedia",
+    "webRTC-adaptor",
+    "angular"
+  ],
+  "author": "Ashok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashok-ai/ngx-antmedia-adaptor/issues"
+  },
+  "homepage": "https://github.com/ashok-ai/ngx-antmedia-adaptor#readme"
+}
